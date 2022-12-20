@@ -16,7 +16,7 @@ Setup (as tested on MacOS)
 1. Clone the repository:
 
    ```bash
-   $ git clone https://github.com/pradumon12 in/FlapPyBird
+   $ git clone https://github.com/pradumon12/FlapPyBird
    ```
 
    or download as zip and extract.
