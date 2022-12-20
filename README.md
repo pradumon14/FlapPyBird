@@ -16,7 +16,7 @@ Setup (as tested on MacOS)
 1. Clone the repository:
 
    ```bash
-   $ git clone https://github.com/pradumon12/FlapPyBird
+   git clone https://github.com/pradumon12/FlapPyBird
    ```
 
    or download as zip and extract.
@@ -24,8 +24,8 @@ Setup (as tested on MacOS)
 1. In the root directory run
 
    ```bash
-   $ pipenv install
-   $ pipenv run python flappy.py
+   pipenv install
+   pipenv run python flappy.py
    ```
 
 1. Use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key to play and <kbd>Esc</kbd> to close the game.
